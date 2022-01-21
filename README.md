@@ -14,13 +14,13 @@
 <a href="https://techcoch.blogspot.com/?m=1"><img title="Blogger" src="https://img.shields.io/badge/Blogger-gold?style=for-the-badge&logo=Blogger"></a>
 
 
-<p align="center">
+<!--<p align="center">
 <a href="https://github.com/gs-kevin/SMF"><img title="SMF" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-kevin&repo=SMF&theme=highcontrast"></a>
 <a href="https://github.com/gs-kevin/Lucifer"><img title="Lucifer" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-kevin&repo=Lucifer&theme=highcontrast"></a>
 <a href="https://github.com/gs-kevin/hacking-tool"><img title="hacking-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-kevin&repo=hacking-tool&theme=highcontrast"></a>
 <a href="https://github.com/gs-kevin/telegram_bitcoin_bot"><img title="telegram_bitcoin_bot" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-kevin&repo=telegram_bitcoin_bot&theme=highcontrast"></a>
 <a href="https://github.com/gs-kevin/facebook-video-downloader"><img title="facebook-video-downloader" src="https://github-readme-stats.vercel.app/api/pin/?username=gs-kevin&repo=facebook-video-downloader&theme=highcontrast"></a>
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://github.com/gs-kevin"><img title="gs-kevin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-kevin&layout=compact"></a>
